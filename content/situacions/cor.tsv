@@ -1,0 +1,79 @@
+format	seq	verb	tense	front	back	note	options	so	source	confidence
+grup	101			la voz|el coro|la coral|el corista	la veu|el cor|la coral|el cantaire	Som una vintena de cantaires.		la BÈU	AVL Vocabulari de la música	dictionary
+grup	102			el ensayo|el ensayo general|el repertorio|la canción	l'assaig|l'assaig general|el repertori|la cançó	L'assaig és dimarts a les vuit.		la-SATCH	AVL Vocabulari de la música	dictionary
+grup	103			soprano|contralto|tenor|bajo	la soprano|la contralt|el tenor|el baix	Els baixos entren al compàs vuit.			diccionari	dictionary
+grup	104			la cuerda (de voces)|el solista|el solo|al unísono	la corda|el solista|el solo|a l'uníson	Cada corda assaja per separat.			diccionari	dictionary
+grup	105			la letra|el estribillo|la estrofa|de memoria	la lletra|la tornada|l'estrofa|de memòria	No em sé la lletra de memòria.		la LLE-tra	AVL Vocabulari de la música	dictionary
+grup	106			el ritmo|el silencio|el compás|el calderón	el ritme|el silenci|el compàs|el calderó	Aquí hi ha un silenci de dos temps.			AVL Vocabulari de la música	dictionary
+grup	107			flojo|fuerte|levantar la voz|bajar la voz	fluix|fort|alçar la veu|abaixar la veu	Aquesta part es canta fluix.		FLUSH	diccionari	dictionary
+grup	108			la respiración|la entonación|la tesitura|el falsete	la respiració|l'entonació|la tessitura|el falset	Aquesta nota és fora de la meva tessitura.			AVL Vocabulari de la música	dictionary
+grup	109			el concierto|la actuación|el escenario|el público	el concert|l'actuació|l'escenari|el públic	Pugem a l'escenari en silenci.			AVL Vocabulari de la música	dictionary
+grup	110			el tono|la tonalidad|el acorde|la clave	el to|la tonalitat|l'acord|la clau	Has entrat un to més avall.			AVL Vocabulari de la música	dictionary
+frase	201			¿por dónde vamos?	Per on anem?	Perdona, per on anem?		par on A-nam	diccionari	dictionary
+frase	202			¿me puedes repetir la entrada?	Em pots repetir l'entrada?			am POTS rra-pa-TÍ lan-TRA-da	diccionari	dictionary
+frase	203			¿en qué compás estamos?	En quin compàs som?			an quin cum-PÀS som	diccionari	dictionary
+frase	204			no lo he entendido	No ho he entès			no wa an-TÈS	diccionari	dictionary
+frase	205			¿lo puedes decir más despacio?	Ho pots dir més a poc a poc?			u POTS DÍ mes a POC a POC	diccionari	dictionary
+frase	206			¿en qué cuerda cantas?	A quina corda cantes?	A quina corda cantes? — Als baixos.			diccionari	dictionary
+frase	207			desde el principio	Des del principi	Tornem-hi des del principi.			diccionari	dictionary
+frase	208			empezar de nuevo	Començar de nou	Comencem de nou, si us plau.			diccionari	dictionary
+frase	209			calentar la voz	Escalfar la veu	Escalfem la veu deu minuts.		as-cal-FÁ la BÈU	diccionari	dictionary
+frase	210			proyectar la voz	Projectar la veu	Has de projectar més la veu.		pru-zhac-TÁ la BÈU	diccionari	dictionary
+frase	211			seguir el ritmo	Seguir el ritme	Costa seguir el ritme aquí.			diccionari	dictionary
+frase	212			de oído	D'oïda	No sé solfeig, canto d'oïda.		du-Í-da	diccionari	dictionary
+frase	213			me he equivocado de compás	M'he equivocat de compàs			me a-qui-vu-CAT da cum-PÀS	diccionari	dictionary
+frase	214			perdona, he desafinado	Perdona, he desafinat			par-DO-na, e da-za-fi-NAT	AVL Vocabulari de la música	dictionary
+frase	215			a capela	A cappella	Aquesta obra és a cappella.			diccionari	dictionary
+frase	216			el canto coral	El cant coral			al CANT cu-RAL	AVL Vocabulari de la música	dictionary
+taula	301	cantar	present	CANTAR — presente			model: parlar		A Punt p.202 (model)	derived
+buit	302	cantar	present	Jo ___ amb les contralts.	canto				A Punt p.202 (model)	derived
+buit	303	cantar	present	Vosaltres ___ la tornada dos cops.	canteu				A Punt p.202 (model)	derived
+tria	304	cantar	present	Nosaltres ___ aquesta obra a l'uníson.	cantem		canto|cantes|canten|*cantem		A Punt p.202 (model)	derived
+tria	305	cantar	present	No ___ la lletra de memòria.	sé	saber = saber · cantar = cantar · tenir = tener · dir = decir	*sé|canto|tinc|dic		A Punt p.202	verbatim
+imperatiu	306	cantar	imperatiu	«¡Cantad más flojo!»	Canteu més fluix!	canta (tu) · canteu (vosaltres) · no cantis			A Punt p.206 (regla)	derived
+produccio	307	cantar	present	¿Cantamos otra vez?	Cantem un altre cop?				diccionari	dictionary
+taula	311	començar	present	COMENÇAR — presente					A Punt p.202	verbatim
+buit	312	començar	present	Jo ___ sempre un to més avall.	començo				A Punt p.202	verbatim
+buit	313	començar	present	Nosaltres ___ al compàs vuit.	comencem				A Punt p.202	verbatim
+tria	314	començar	present	Vosaltres ___ després del silenci.	comenceu		començo|comences|*comenceu|comencen		A Punt p.202	verbatim
+tria	315	començar	present	___ de nou, si us plau.	Comencem	començar = empezar · seguir = seguir · repetir = repetir · acabar = acabar	*Comencem|Seguim|Repetim|Acabem		A Punt p.202	verbatim
+imperatiu	316	començar	imperatiu	«¡Empezad desde el principio!»	Comenceu des del principi!	comença (tu) · comenceu (vosaltres) · no comencis			A Punt p.206 (regla)	derived
+produccio	317	començar	present	¿Por dónde empezamos?	Per on comencem?				diccionari	dictionary
+taula	321	llegir	present	LLEGIR — presente			model amb –eix		A Punt p.203	verbatim
+buit	322	llegir	present	Jo no ___ bé la partitura.	llegeixo				A Punt p.203	verbatim
+buit	323	llegir	present	Nosaltres ___ la lletra en veu alta.	llegim				A Punt p.203	verbatim
+tria	324	llegir	present	Ell ___ el solfeig molt de pressa.	llegeix		llegeixo|llegeixes|llegim|*llegeix		A Punt p.203	verbatim
+tria	325	llegir	present	No ___ solfeig, canto d'oïda.	sé	saber = saber · llegir = leer · veure = ver · entendre = entender	llegeixo|*sé|veig|entenc		A Punt p.203	verbatim
+imperatiu	326	llegir	imperatiu	«¡Leed la letra primero!»	Llegiu la lletra primer!	llegeix (tu) · llegiu (vosaltres) · no llegeixis			A Punt p.206 (regla)	derived
+produccio	327	llegir	present	No leo bien la partitura.	No llegeixo bé la partitura.				diccionari	dictionary
+taula	331	fer	present	FER — presente					A Punt p.202	verbatim
+buit	332	fer	present	Cada dimarts ___ assaig al cor.	faig				A Punt p.202	verbatim
+buit	333	fer	present	Vosaltres ___ el solo.	feu				A Punt p.202	verbatim
+tria	334	fer	present	Què ___ nosaltres ara?	fem		faig|fas|*fem|fan		A Punt p.202	verbatim
+tria	335	fer	present	___ una pausa de cinc minuts?	Fem	fer = hacer · anar = ir · tenir = tener · poder = poder	Anem|Tenim|*Fem|Podem		A Punt p.202	verbatim
+imperatiu	336	fer	imperatiu	«¡Hacedlo más flojo!»	Feu-ho més fluix!	fes (tu) · faci (vostè) · feu (vosaltres) · no facis			A Punt p.206	verbatim
+produccio	337	fer	present	¿Qué hacemos si me equivoco?	Què fem si m'equivoco?				diccionari	dictionary
+taula	341	sortir	present	SORTIR — presente			formes irregulars		A Punt p.203	verbatim
+buit	342	sortir	present	Jo ___ a l'escenari amb els baixos.	surto				A Punt p.203	verbatim
+buit	343	sortir	present	Nosaltres ___ en silenci quan acaba.	sortim				A Punt p.203	verbatim
+tria	344	sortir	present	Tu ___ just després de la tornada.	surts		surto|*surts|surt|sortiu		A Punt p.203	verbatim
+tria	345	sortir	present	Avui l'assaig ___ molt bé.	va	anar bé = ir bien · sortir = salir · fer = hacer · ser = ser	surt|*va|fa|és		A Punt p.203	verbatim
+imperatiu	346	sortir	imperatiu	«¡Salid en silencio!»	Sortiu en silenci!	surt (tu) · sortiu (vosaltres) · no surtis			A Punt p.206 (regla)	derived
+produccio	347	sortir	present	Salimos al escenario a las ocho.	Sortim a l'escenari a les vuit.				diccionari	dictionary
+taula	351	repetir	present	REPETIR — presente			model: llegir (amb –eix)		A Punt p.203 (model)	derived
+buit	352	repetir	present	Jo ___ sempre la mateixa frase.	repeteixo				A Punt p.203 (model)	derived
+buit	353	repetir	present	Nosaltres ___ des del principi.	repetim				A Punt p.203 (model)	derived
+tria	354	repetir	present	La directora ___ l'entrada un altre cop.	repeteix		repeteixo|repeteixes|*repeteix|repetim		A Punt p.203 (model)	derived
+tria	355	repetir	present	___ la tornada, si us plau.	Repetiu	repetir = repetir · escoltar = escuchar · llegir = leer · cantar = cantar	Escolteu|Llegiu|Canteu|*Repetiu		A Punt p.203 (model)	derived
+imperatiu	356	repetir	imperatiu	«¡Repetid la entrada!»	Repetiu l'entrada!	repeteix (tu) · repetiu (vosaltres) · no repeteixis			A Punt p.206 (regla)	derived
+produccio	357	repetir	present	¿Lo repetimos otra vez?	Ho repetim un altre cop?				diccionari	dictionary
+motlle	901			Em pots ___, si us plau?	Em pots repetir l'entrada?|Em pots deixar la partitura?|Em pots dir en quin compàs som?	Ara fes-ne una de teva.			diccionari	dictionary
+motlle	902			Abans de ___, ___.	Abans de cantar, respira.|Abans d'entrar, mira la directora.|Abans de marxar, deixa la carpeta.				A Punt p.195	verbatim
+motlle	903			No sé ___.	No sé solfeig.|No sé la lletra.|No sé si entro aquí.				diccionari	dictionary
+motlle	904			Perdona, ___.	Perdona, he desafinat.|Perdona, m'he equivocat.|Perdona, per on anem?				diccionari	dictionary
+motlle	905			Podem ___ un altre cop?	Podem repetir un altre cop?|Podem començar un altre cop?|Podem provar-ho un altre cop?				diccionari	dictionary
+motlle	906			Em costa ___.	Em costa seguir el ritme.|Em costa afinar aquesta nota.|Em costa llegir la partitura.				diccionari	dictionary
+motlle	907			Quan ___, ___.	Quan acabem, marxo.|Quan entra la corda, respiro.|Quan em perdo, miro la directora.				A Punt p.195	verbatim
+motlle	908			Aquesta part es canta ___.	Aquesta part es canta fluix.|Aquesta part es canta forta.|Aquesta part es canta a l'uníson.				diccionari	dictionary
+motlle	909			Els ___ entren al compàs ___.	Els baixos entren al compàs vuit.|Els tenors entren al compàs dotze.|Les contralts entren al compàs quatre.				diccionari	dictionary
+motlle	910			Cada dimarts ___.	Cada dimarts faig assaig.|Cada dimarts vaig al cor.|Cada dimarts canto dues hores.				diccionari	dictionary

@@ -1,0 +1,225 @@
+ca	es	so	kind	unit	section	topic	scenario	example_ca	source_page	gloss_by	confidence
+Bon dia.	Buenos días.		frase	1	PUNT 1	salutacions	saludar		23	claude-opus-5	verbatim
+Bona tarda.	Buenas tardes.		frase	1	PUNT 1	salutacions	saludar		23	claude-opus-5	verbatim
+Hola!	¡Hola!		frase	1	PUNT 1	salutacions	saludar		23	claude-opus-5	verbatim
+Ei, hola!	¡Ey, hola!		frase	1	PUNT 1	salutacions	saludar		23	claude-opus-5	verbatim
+Salut!	¡Hola! (informal)		frase	1	PUNT 2	salutacions	saludar		25	claude-opus-5	verbatim
+Benvingut, Sr. Ferrer!	¡Bienvenido, Sr. Ferrer!		frase	1	LÈXIC	salutacions	saludar		31	claude-opus-5	verbatim
+Ei, com va això?	¿Ey, qué tal?		frase	1	LÈXIC	salutacions	saludar		31	claude-opus-5	verbatim
+Com va això?	¿Qué tal? / ¿Cómo va eso?		frase	1	PUNT 1	salutacions	saludar		23	claude-opus-5	verbatim
+Bé, anar fent. I tu?	Bien, tirando. ¿Y tú?		frase	1	PUNT 1	salutacions	saludar		23	claude-opus-5	verbatim
+Anar fent, i tu?	Tirando, ¿y tú?		frase	1	LÈXIC	salutacions	saludar		31	claude-opus-5	verbatim
+Molt bé, gràcies.	Muy bien, gracias.		frase	1	PUNT 1	salutacions	saludar		23	claude-opus-5	verbatim
+Moltes gràcies.	Muchas gracias.	MUL-tas GRÀ-si-as	frase	1	LÈXIC	salutacions	saludar		31	claude-opus-5	verbatim
+Adeu!	¡Adiós!		frase	1	LÈXIC	salutacions	acomiadar-se		31	claude-opus-5	verbatim
+A reveure!	¡Hasta la vista!	a ra-VÈU-ra	frase	1	LÈXIC	salutacions	acomiadar-se		31	claude-opus-5	verbatim
+Encantada.	Encantada.		frase	1	LÈXIC	presentacions	presentar-se		31	claude-opus-5	verbatim
+Encantada, senyor Valls.	Encantada, señor Valls.		frase	1	PUNT 1	presentacions	presentar-se		23	claude-opus-5	verbatim
+Tant de gust.	Mucho gusto.		frase	1	PUNT 1	presentacions	presentar-se		23	claude-opus-5	verbatim
+Com et dius?	¿Cómo te llamas?		frase	1	PUNT DE SUPORT	presentacions	presentar-se		30	claude-opus-5	verbatim
+Em dic Joana.	Me llamo Joana.		frase	1	PUNT DE SUPORT	presentacions	presentar-se		30	claude-opus-5	verbatim
+Soc la Joana.	Soy Joana.	zhu-A-na	frase	1	PUNT DE SUPORT	presentacions	presentar-se		30	claude-opus-5	verbatim
+Perdona, com et dius?	Perdona, ¿cómo te llamas?		frase	1	FONÈTICA	presentacions	presentar-se		31	claude-opus-5	verbatim
+Hola, em dic Anna. I tu, com et dius?	Hola, me llamo Anna. Y tú, ¿cómo te llamas?		frase	1	FONÈTICA	presentacions	presentar-se		31	claude-opus-5	verbatim
+I vostè, com es diu?	Y usted, ¿cómo se llama?		frase	1	FONÈTICA	presentacions	registre-formal		31	claude-opus-5	verbatim
+Perdoni, vostè es diu Rovira?	Perdone, ¿usted se llama Rovira?	par-DO-ni, bus-TÉ as rru-VI-ra	frase	1	FONÈTICA	presentacions	registre-formal		31	claude-opus-5	verbatim
+I de cognom, com es diu?	Y de apellido, ¿cómo se llama?		frase	1	PUNT 1	presentacions	registre-formal		23	claude-opus-5	verbatim
+Hola, ets l'Aina?	Hola, ¿eres Aina?		frase	1	LÈXIC	presentacions	presentar-se		31	claude-opus-5	verbatim
+Sí, soc jo.	Sí, soy yo.		frase	1	LÈXIC	presentacions	presentar-se		31	claude-opus-5	verbatim
+I ell, qui és?	Y él, ¿quién es?		frase	1	PUNT 1	presentacions	presentar-algu		23	claude-opus-5	verbatim
+Qui és?	¿Quién es?		frase	1	PUNT DE SUPORT	presentacions	presentar-algu		30	claude-opus-5	verbatim
+És el senyor Vila.	Es el señor Vila.		frase	1	PUNT DE SUPORT	presentacions	presentar-algu		30	claude-opus-5	verbatim
+Ell és en Jeremy i també estudia català.	Él es Jeremy y también estudia catalán.		frase	1	PUNT 1	presentacions	presentar-algu		23	claude-opus-5	verbatim
+Quants anys tens?	¿Cuántos años tienes?		frase	1	PUNT DE SUPORT	edat	edat		30	claude-opus-5	verbatim
+Tinc 33 anys.	Tengo 33 años.		frase	1	PUNT DE SUPORT	edat	edat		30	claude-opus-5	verbatim
+En tinc 33.	Tengo 33. (con pronombre en)		frase	1	PUNT DE SUPORT	edat	edat		30	claude-opus-5	verbatim
+La Maria en té 18 i jo en tinc 16.	María tiene 18 y yo tengo 16.		frase	1	PUNT 3	edat	edat		27	claude-opus-5	verbatim
+Quines llengües parles?	¿Qué idiomas hablas?	QUI-nas LLEN-guas PAR-las	frase	1	PUNT DE SUPORT	llengues	llengues		30	claude-opus-5	verbatim
+Quantes llengües parles?	¿Cuántos idiomas hablas?	QUAN-tas LLEN-guas PAR-las	frase	1	PUNT DE SUPORT	llengues	llengues		30	claude-opus-5	verbatim
+En parlo 4.	Hablo 4. (con pronombre en)	an PAR-lu	frase	1	PUNT DE SUPORT	llengues	llengues		30	claude-opus-5	verbatim
+Parlo 4 llengües.	Hablo 4 idiomas.		frase	1	PUNT DE SUPORT	llengues	llengues		30	claude-opus-5	verbatim
+una mica de català	un poco de catalán		frase	1	PUNT 1	llengues	llengues		22	claude-opus-5	verbatim
+Encara no parla català.	Todavía no habla catalán.		frase	1	PUNT 1	llengues	llengues		22	claude-opus-5	verbatim
+D'on ets?	¿De dónde eres?		frase	1	PUNT DE SUPORT	origen	origen-nacionalitat		30	claude-opus-5	verbatim
+Soc de Portugal.	Soy de Portugal.	da pur-tu-GAL	frase	1	PUNT DE SUPORT	origen	origen-nacionalitat		30	claude-opus-5	verbatim
+Soc portuguesa.	Soy portuguesa.	pur-tu-GUE-za	frase	1	PUNT DE SUPORT	origen	origen-nacionalitat		30	claude-opus-5	verbatim
+De l'Equador.	De Ecuador.	da la-qua-DÓ	frase	1	PUNT 2	origen	origen-nacionalitat		25	claude-opus-5	verbatim
+Soc del Brasil	Soy de Brasil.		frase	1	PUNT 2	origen	origen-nacionalitat		25	claude-opus-5	verbatim
+Soc de l'Iran.	Soy de Irán.		frase	1	PUNT 2	origen	origen-nacionalitat		25	claude-opus-5	verbatim
+Soc de les Filipines.	Soy de Filipinas.	da las fi-li-PI-nas	frase	1	PUNT 2	origen	origen-nacionalitat		25	claude-opus-5	verbatim
+Soc dels Estats Units.	Soy de Estados Unidos.	dals as-TATS u-NITS	frase	1	PUNT 2	origen	origen-nacionalitat		25	claude-opus-5	verbatim
+Soc d'Atenes, la capital de Grècia.	Soy de Atenas, la capital de Grecia.		frase	1	PUNT 2	origen	origen-nacionalitat		25	claude-opus-5	verbatim
+és catalana, de Reus	es catalana, de Reus		frase	1	PUNT 2	origen	origen-nacionalitat		25	claude-opus-5	verbatim
+D'on és el porró?	¿De dónde es el porrón?		frase	1	PUNT 2	origen	origen-nacionalitat		25	claude-opus-5	verbatim
+De Catalunya. És català.	De Cataluña. Es catalán.		frase	1	PUNT 2	origen	origen-nacionalitat		25	claude-opus-5	verbatim
+Per què estudies català?	¿Por qué estudias catalán?		frase	1	PUNT DE SUPORT	informacio-personal	informacio-personal		30	claude-opus-5	verbatim
+Per treballar a Catalunya.	Para trabajar en Cataluña.	par tra-ba-LLÁ a ca-ta-LU-ña	frase	1	PUNT DE SUPORT	informacio-personal	informacio-personal		30	claude-opus-5	verbatim
+Per entendre la gent.	Para entender a la gente.	par an-TEN-dra la ZHEN	frase	1	PUNT 1	informacio-personal	informacio-personal		22	claude-opus-5	verbatim
+Estudio català per treballar a Catalunya.	Estudio catalán para trabajar en Cataluña.	as-TU-di-u ca-ta-LÁ par tra-ba-LLÁ a ca-ta-LU-ña	frase	1	PUNT 1	informacio-personal	informacio-personal		22	claude-opus-5	verbatim
+Estudio català per poder anar a la universitat.	Estudio catalán para poder ir a la universidad.	as-TU-di-u ca-ta-LÁ par pu-DÉ a-NÁ a la u-ni-bar-si-TAT	frase	1	PUNT 1	informacio-personal	informacio-personal		22	claude-opus-5	verbatim
+Ara visc a Reus.	Ahora vivo en Reus.		frase	1	PUNT 1	informacio-personal	informacio-personal		22	claude-opus-5	verbatim
+Vull practicar català.	Quiero practicar catalán.	BUILL prac-ti-CÁ ca-ta-LÁ	frase	1	PUNT 3	llengues	llengues		27	claude-opus-5	verbatim
+Tens temps i vols practicar català?	¿Tienes tiempo y quieres practicar catalán?		frase	1	PUNT 3	llengues	llengues		27	claude-opus-5	verbatim
+Ah, sí?	¿Ah, sí?		frase	1	PUNT SOCIOCULTURAL	salutacions	informacio-personal		29	claude-opus-5	verbatim
+Exacte, molt bé!	¡Exacto, muy bien!	a-GZAC-ta, MOLT BÉ	frase	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+Què noms?	¿Cómo te llamas? (baleárico)		frase	1	PUNT SOCIOCULTURAL	presentacions	presentar-se		29	claude-opus-5	verbatim
+fer petons	dar besos	FÉ pa-TONS	frase	1	PUNT DE PARTIDA	salutacions	saludar		21	claude-opus-5	verbatim
+abraçar-se	abrazarse	a-bra-SAR-sa	frase	1	PUNT DE PARTIDA	salutacions	saludar		21	claude-opus-5	verbatim
+donar-se la mà	darse la mano	du-NAR-sa la MÁ	frase	1	PUNT DE PARTIDA	salutacions	saludar		21	claude-opus-5	verbatim
+donar un cop a l'espatlla	dar una palmada en la espalda	du-NÁ un COP a las-PAT-lla	frase	1	PUNT DE PARTIDA	salutacions	saludar		21	claude-opus-5	verbatim
+ser	ser	SÉ	mot	1	PUNT DE SUPORT	verbs	informacio-personal		30	claude-opus-5	verbatim
+dir-se	llamarse		mot	1	PUNT DE SUPORT	verbs	presentar-se		30	claude-opus-5	verbatim
+tenir	tener	ta-NÍ	mot	1	PUNT DE SUPORT	verbs	edat		30	claude-opus-5	verbatim
+parlar	hablar	par-LÁ	mot	1	PUNT DE SUPORT	verbs	llengues		30	claude-opus-5	verbatim
+estudiar	estudiar	as-tu-di-Á	mot	1	PUNT DE SUPORT	verbs	informacio-personal		30	claude-opus-5	verbatim
+viure	vivir	BIU-ra	mot	1	PUNT 1	verbs	informacio-personal		22	claude-opus-5	verbatim
+soc	soy		mot	1	PUNT DE SUPORT	verbs	informacio-personal		30	claude-opus-5	verbatim
+ets	eres		mot	1	PUNT DE SUPORT	verbs	informacio-personal		30	claude-opus-5	verbatim
+és	es		mot	1	PUNT DE SUPORT	verbs	informacio-personal		30	claude-opus-5	verbatim
+em dic	me llamo		mot	1	PUNT DE SUPORT	verbs	presentar-se		30	claude-opus-5	verbatim
+et dius	te llamas		mot	1	PUNT DE SUPORT	verbs	presentar-se		30	claude-opus-5	verbatim
+es diu	se llama	as DIU	mot	1	PUNT DE SUPORT	verbs	presentar-se		30	claude-opus-5	verbatim
+tinc	tengo		mot	1	PUNT DE SUPORT	verbs	edat		30	claude-opus-5	verbatim
+tens	tienes		mot	1	PUNT DE SUPORT	verbs	edat		30	claude-opus-5	verbatim
+té	tiene		mot	1	PUNT DE SUPORT	verbs	edat		30	claude-opus-5	verbatim
+visc	vivo	BISC	mot	1	PUNT 1	verbs	informacio-personal		22	claude-opus-5	verbatim
+el nom	el nombre		mot	1	PUNT SOCIOCULTURAL	noms	informacio-personal		28	claude-opus-5	lemma
+el cognom	el apellido	el cug-NOM	mot	1	PUNT 1	noms	informacio-personal		23	claude-opus-5	lemma
+el llinatge	el apellido (baleárico)	el lli-NAD-zha	mot	1	PUNT SOCIOCULTURAL	noms	informacio-personal		29	claude-opus-5	lemma
+el company	el compañero	el cum-PÁÑ	mot	1	PUNT DE PARTIDA	classe	informacio-personal		21	claude-opus-5	lemma
+la classe d'idiomes	la clase de idiomas	la CLA-sa di-di-O-mas	mot	1	PUNT DE PARTIDA	classe	saludar		21	claude-opus-5	verbatim
+el bar	el bar	BAR	mot	1	PUNT DE PARTIDA	classe	saludar		21	claude-opus-5	lemma
+l'hotel	el hotel	lu-TEL	mot	1	PUNT DE PARTIDA	classe	saludar		21	claude-opus-5	verbatim
+el diàleg	el diálogo	el di-Á-lek	mot	1	PUNT DE PARTIDA	classe	saludar		21	claude-opus-5	lemma
+el nen	el niño		mot	1	PUNT SOCIOCULTURAL	persones	informacio-personal		29	claude-opus-5	lemma
+la nena	la niña		mot	1	PUNT SOCIOCULTURAL	persones	informacio-personal		29	claude-opus-5	lemma
+el noi	el chico		mot	1	PUNT SOCIOCULTURAL	persones	informacio-personal		29	claude-opus-5	lemma
+la noia	la chica		mot	1	PUNT SOCIOCULTURAL	persones	informacio-personal		29	claude-opus-5	lemma
+el xiquet	el niño (valenciano)	el shi-QUET	mot	1	PUNT SOCIOCULTURAL	persones	informacio-personal		29	claude-opus-5	lemma
+la xiqueta	la niña (valenciano)	la shi-QUE-ta	mot	1	PUNT SOCIOCULTURAL	persones	informacio-personal		29	claude-opus-5	lemma
+el nin	el niño (baleárico)		mot	1	PUNT SOCIOCULTURAL	persones	informacio-personal		29	claude-opus-5	lemma
+la nina	la niña (baleárico)		mot	1	PUNT SOCIOCULTURAL	persones	informacio-personal		29	claude-opus-5	lemma
+la gent	la gente	la ZHEN	mot	1	PUNT 1	persones	informacio-personal		22	claude-opus-5	verbatim
+el senyor	el señor	el sa-ÑÓ	mot	1	PUNT DE SUPORT	persones	registre-formal		30	claude-opus-5	verbatim
+vostè	usted	bus-TÉ	mot	1	PUNT DE SUPORT	persones	registre-formal		30	claude-opus-5	verbatim
+la directora	la directora	la di-rac-TU-ra	mot	1	PUNT 1	persones	presentar-algu		23	claude-opus-5	verbatim
+la vicedirectora	la subdirectora	la bi-sa-di-rac-TU-ra	mot	1	PUNT 1	persones	presentar-algu		23	claude-opus-5	verbatim
+la majoria d'edat	la mayoría de edad	la ma-zhu-RI-a da-DAT	mot	1	PUNT 3	edat	edat		27	claude-opus-5	lemma
+l'escolarització obligatòria	la escolarización obligatoria	las-cu-la-rid-za-si-Ó u-bli-ga-TO-ria	mot	1	PUNT 3	edat	edat		27	claude-opus-5	lemma
+la jubilació	la jubilación	la zhu-bi-la-si-Ó	mot	1	PUNT 3	edat	edat		27	claude-opus-5	lemma
+fer anys	cumplir años	FÉ AÑS	frase	1	PUNT 3	edat	edat		27	claude-opus-5	verbatim
+el català	el catalán (idioma)		mot	1	PUNT 1	llengues	llengues		22	claude-opus-5	verbatim
+l'espanyol	el español	las-pa-ÑOL	mot	1	PUNT 2	llengues	llengues		24	claude-opus-5	verbatim
+l'alemany	el alemán	la-la-MÁÑ	mot	1	PUNT 2	llengues	llengues		24	claude-opus-5	verbatim
+l'anglès	el inglés		mot	1	PUNT 2	llengues	llengues		24	claude-opus-5	verbatim
+l'àrab	el árabe	l'Á-rap	mot	1	PUNT 2	llengues	llengues		24	claude-opus-5	verbatim
+el romanès	el rumano	el rru-ma-NÉS	mot	1	PUNT 2	llengues	llengues		24	claude-opus-5	verbatim
+l'italià	el italiano		mot	1	PUNT 2	llengues	llengues		24	claude-opus-5	verbatim
+el xinès	el chino	el shi-NÉS	mot	1	PUNT 2	llengues	llengues		24	claude-opus-5	verbatim
+el francès	el francés		mot	1	PUNT 2	llengues	llengues		24	claude-opus-5	verbatim
+l'urdú	el urdu		mot	1	PUNT 2	llengues	llengues		24	claude-opus-5	verbatim
+el portuguès	el portugués	el pur-tu-GUÉS	mot	1	PUNT 2	llengues	llengues		24	claude-opus-5	verbatim
+el rus	el ruso		mot	1	PUNT 2	llengues	llengues		24	claude-opus-5	verbatim
+la llengua	la lengua		mot	1	PUNT DE SUPORT	llengues	llengues		30	claude-opus-5	lemma
+l'idioma	el idioma		mot	1	PUNT 1	llengues	llengues		22	claude-opus-5	lemma
+marroquí	marroquí (m.)		mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+marroquina	marroquí (f.)	ma-rru-QUI-na	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+romanès	rumano	ru-ma-NÉZ	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+romanesa	rumana	ru-ma-NE-za	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+xinès	chino	shi-NÉZ	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+xinesa	china	shi-NE-za	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+italià	italiano		mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+italiana	italiana		mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+pakistanès	pakistaní	pa-kis-ta-NÉZ	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+pakistanesa	pakistaní (f.)	pa-kis-ta-NE-za	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+francès	francés	fran-CÉZ	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+francesa	francesa	fran-CE-za	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+equatorià	ecuatoriano	a-kwa-tu-ri-À	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+equatoriana	ecuatoriana	a-kwa-tu-ri-A-na	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+colombià	colombiano	cu-lum-bi-À	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+colombiana	colombiana	cu-lum-bi-A-na	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+hondureny	hondureño	un-du-REÑ	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+hondurenya	hondureña	un-du-RE-ña	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+rus	ruso		mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+russa	rusa		mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+senegalès	senegalés	sa-na-ga-LÉZ	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+senegalesa	senegalesa	sa-na-ga-LE-za	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+anglès	inglés	an-GLÉZ	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+anglesa	inglesa	an-GLE-za	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+alemany	alemán	a-la-MAÑ	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+alemanya	alemana	a-la-MA-ña	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+peruà	peruano	pa-ru-À	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+peruana	peruana	pa-ru-A-na	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+argentí	argentino	ar-zhen-TÍ	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+argentina	argentina	ar-zhen-TI-na	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+brasiler	brasileño	bra-zi-LÉ	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+brasilera	brasileña	bra-zi-LE-ra	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	verbatim
+català	catalán		mot	1	PUNT 2	nacionalitats	origen-nacionalitat		25	claude-opus-5	verbatim
+catalana	catalana		mot	1	PUNT 2	nacionalitats	origen-nacionalitat		25	claude-opus-5	verbatim
+portuguesa	portuguesa	pur-tu-GUE-za	mot	1	PUNT DE SUPORT	nacionalitats	origen-nacionalitat		30	claude-opus-5	verbatim
+la nacionalitat	la nacionalidad	na-si-u-na-li-TAT	mot	1	PUNT 2	nacionalitats	origen-nacionalitat		24	claude-opus-5	lemma
+els Països Catalans	los Países Catalanes		mot	1	PUNT 2	paisos	origen-nacionalitat		24	claude-opus-5	verbatim
+Catalunya	Cataluña		mot	1	PUNT 2	paisos	origen-nacionalitat		24	claude-opus-5	verbatim
+el Pakistan	Pakistán		mot	1	PUNT 1	paisos	origen-nacionalitat		22	claude-opus-5	verbatim
+el Brasil	Brasil	bra-ZIL	mot	1	PUNT 2	paisos	origen-nacionalitat		25	claude-opus-5	verbatim
+la Xina	China	SHI-na	mot	1	PUNT 1	paisos	origen-nacionalitat		22	claude-opus-5	verbatim
+Grècia	Grecia		mot	1	PUNT 2	paisos	origen-nacionalitat		25	claude-opus-5	verbatim
+l'Iran	Irán		mot	1	PUNT 2	paisos	origen-nacionalitat		25	claude-opus-5	verbatim
+les Filipines	Filipinas		mot	1	PUNT 2	paisos	origen-nacionalitat		25	claude-opus-5	verbatim
+els Estats Units	Estados Unidos		mot	1	PUNT 2	paisos	origen-nacionalitat		25	claude-opus-5	verbatim
+l'Equador	Ecuador	a-kwa-DÓ	mot	1	PUNT 2	paisos	origen-nacionalitat		25	claude-opus-5	verbatim
+Itàlia	Italia		mot	1	PUNT SOCIOCULTURAL	paisos	origen-nacionalitat		29	claude-opus-5	verbatim
+Àfrica	África		mot	1	PUNT 2	paisos	origen-nacionalitat		24	claude-opus-5	verbatim
+Àsia	Asia	A-zi-a	mot	1	PUNT 2	paisos	origen-nacionalitat		24	claude-opus-5	verbatim
+Amèrica	América		mot	1	PUNT 2	paisos	origen-nacionalitat		24	claude-opus-5	verbatim
+Europa	Europa		mot	1	PUNT 2	paisos	origen-nacionalitat		24	claude-opus-5	verbatim
+Oceania	Oceanía	u-se-a-NI-a	mot	1	PUNT 2	paisos	origen-nacionalitat		24	claude-opus-5	verbatim
+la capital	la capital		mot	1	PUNT 1	paisos	origen-nacionalitat		22	claude-opus-5	verbatim
+el país	el país		mot	1	PUNT 2	paisos	origen-nacionalitat		25	claude-opus-5	verbatim
+zero	cero	ZE-ru	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+u	uno		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+dos	dos		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	derived
+tres	tres		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+quatre	cuatro	QUA-tra	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+cinc	cinco		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+sis	seis		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+set	siete		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+vuit	ocho		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+nou	nueve		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+deu	diez		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+onze	once	ON-za	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+dotze	doce	DOD-za	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+tretze	trece	TRED-za	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+catorze	catorce	ca-TOR-za	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+quinze	quince	KIN-za	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+setze	dieciséis	SED-za	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+disset	diecisiete		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+divuit	dieciocho		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+dinou	diecinueve		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	derived
+vint	veinte	BIN	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+vint-i-u	veintiuno		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	derived
+vint-i-dos	veintidós		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+trenta	treinta		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+trenta-dos	treinta y dos		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+quaranta	cuarenta		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+quaranta-cinc	cuarenta y cinco		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+cinquanta	cincuenta		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+cinquanta-tres	cincuenta y tres		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+seixanta	sesenta	sa-SHAN-ta	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+setanta	setenta	sa-TAN-ta	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+vuitanta	ochenta		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	derived
+vuitanta-u	ochenta y uno		mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+noranta	noventa	nu-RAN-ta	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+cent	cien	SEN	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+el número	el número	NÚ-ma-ru	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+el telèfon	el teléfono	ta-LÈ-fun	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+el passaport	el pasaporte	pa-sa-POR	mot	1	PUNT 3	numeros	numeros		26	claude-opus-5	verbatim
+l'edat	la edad	a-DAT	mot	1	PUNT 3	edat	edat		26	claude-opus-5	verbatim
+el porró	el porrón	pu-RRÓ	mot	1	PUNT 2	objectes	origen-nacionalitat		25	claude-opus-5	verbatim
+la tulipa	el tulipán		mot	1	PUNT 2	objectes	origen-nacionalitat		25	claude-opus-5	verbatim
+el croissant	el cruasán	crua-SÁN	mot	1	PUNT 2	objectes	origen-nacionalitat		25	claude-opus-5	verbatim
+la pizza	la pizza		mot	1	PUNT 2	objectes	origen-nacionalitat		25	claude-opus-5	verbatim
+el tango	el tango		mot	1	PUNT 2	objectes	origen-nacionalitat		25	claude-opus-5	verbatim
+el sushi	el sushi		mot	1	PUNT 2	objectes	origen-nacionalitat		25	claude-opus-5	verbatim
+l'oliva	la aceituna	u-LI-ba	mot	1	PUNT 2	objectes	origen-nacionalitat		25	claude-opus-5	verbatim
+l'autobús	el autobús	au-tu-BÚS	mot	1	PUNT 2	objectes	origen-nacionalitat		25	claude-opus-5	verbatim

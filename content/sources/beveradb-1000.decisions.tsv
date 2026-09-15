@@ -1,0 +1,215 @@
+ca_source	ca_final	decision	classification	reason
+a quin preu van	a quin preu van?	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+a quina hora	a quina hora?	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+afeccionar-se	afeccionar-se	reject	real-change	DIEC2 lists afeccionar-se; aficionar-se is the castellanisme
+aixo rai!	això rai!	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+al constat de	al costat de	accept	real-change	typo: costat
+alegre alegra	alegre	accept	real-change	alegre is invariable; alegra is not a word
+alemany alemana	l'alemany / l'alemanya	accept	real-change	feminine is alemanya
+alt alta	alt / alta	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+altre altra	altre / altra	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+ambdós ambdues	ambdós / ambdues	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+ample ampla	ample / ampla	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+anar (preterite tense)	anar (preterite tense)	reject	real-change	a verb paradigm, not a lexical entry; belongs in the verbs file
+anar al cine	anar al cine	reject	real-change	cine is a valid DIEC2 entry alongside cinema
+anar al teatro	anar al teatre	accept	real-change	teatro is Spanish; Catalan is teatre
+andalús	andalús	reject	real-change	adding a feminine form widens the entry; not a correction
+anglès anglesa	anglès anglesa	reject	article-added	adds an article the source did not have; not a correction
+antic antiga	antic / antiga	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+antipàtic antipàtica	antipàtic / antipàtica	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+aquell aquella	aquell / aquella	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+aquest aquesta	aquest / aquesta	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+arquitecte	arquitecte	reject	real-change	adding a feminine form widens the entry; not a correction
+arrisat arrisada	arrissat / arrissada	accept	real-change	gloss is rizado, so arrissat with ss
+atractiu atractiva	atractiu / atractiva	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+avorrit avorrida	avorrit / avorrida	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+aïllat aïllada	aïllat / aïllada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+baix baixa	baix / baixa	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+barat barata	barat / barata	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+blanc blanca	blanc / blanca	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+blau blava	blau / blava	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+bo bona	bo / bona	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+boníssim boníssima	boníssim / boníssima	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+brut bruta	brut / bruta	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+calent calenta	calent / calenta	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+cambrer cambrera	cambrer / cambrera	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+canadà	Canadà	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+cansat cansada	cansat / cansada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+car cara	car / cara	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+carter cartera	carter / cartera	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+cinc / cinquè cinquena	cinc / cinquè / cinquena	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+cinquanta / cinquantà	cinquanta / cinquantè	accept	real-change	ordinal is cinquantè
+clar clara	clar / clara	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+com estàs? com està?	com estàs? / com està?	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+com et dius? com es diu?	com et dius? / com es diu?	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+començar a la feina	començar la feina	accept	real-change	gloss is empezar el trabajo, no preposition
+com… no hi ha res	com... no hi ha res	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+content contenta	content / contenta	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+conèixe't	conèixer-te	accept	real-change	correct enclitic is conèixer-te
+crec que…	crec que...	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+cru crua	cru / crua	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+cuit cuita	cuit / cuita	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+curt curta	curt / curta	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+còmode còmoda	còmode / còmoda	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+d'aqui a dos dies	d'aquí a dos dies	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+de petit petita	de petit / de petita	accept	real-change	m/f pair separator
+desanimat desanimada	desanimat / desanimada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+desmotivat desmotivada	desmotivat / desmotivada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+deu / desè desena	deu / desè / desena	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+disparar-se	disparar-se	reject	real-change	SOURCE ENTRY IS BROKEN: disparar-se means to go off, not to disappear. Drop the row rather than reword it
+dissabte	dissabte	reject	article-added	adds an article the source did not have; not a correction
+disset /dissetè	disset / dissetè	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+diumenge	diumenge	reject	article-added	adds an article the source did not have; not a correction
+divendres	divendres	reject	article-added	adds an article the source did not have; not a correction
+divertit divertida	divertit / divertida	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+dos dues / segon segona	dos / dues / segon / segona	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+dòlar	dòlar	reject	article-added	adds an article the source did not have; not a correction
+econòmic econòmica	econòmic / econòmica	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+el botiguer la botiguera	el botiguer / la botiguera	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+el cosí la cosina	el cosí / la cosina	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+el meu la meva	el meu / la meva	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+el noia	la noia	accept	real-change	noia is feminine
+el nostre la nostra	el nostre / la nostra	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+el ordinador, la computadora	l'ordinador / la computadora	accept	real-change	elision required: l'ordinador
+el seu la seva	el seu / la seva	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+el teu la teva	el teu / la teva	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+el trebellador	el treballador	accept	real-change	typo: treballador
+el vostra la vostra	el vostre / la vostra	accept	real-change	masculine is vostre
+el xicot, la xicota	el xicot / la xicota	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+em sembla que…	em sembla que...	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+en llenguado a la planxa	un llenguado a la planxa	accept	real-change	typo: un, not en
+encantat encantada	encantat / encantada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+enfadat enfadada	enfadat / enfadada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+enfeinat enfeinada	enfeinat / enfeinada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+escocès escocèea	escocès / escocesa	accept	real-change	typo in the feminine: escocesa
+espantat espantada	espantat / espantada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+esquerre esquerra	esquerre / esquerra	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+estar al punt de + inf	estar a punt de + inf.	accept	real-change	the idiom is estar a punt de
+estar marejat marejada	estar marejat / marejada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+estar refredat refredada	estar refredat / refredada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+estatunidenc estatunidenca	estatunidenc / estatunidenca	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+està núvol	està ennuvolat	accept	real-change	nuvol is a noun; the phrase is esta ennuvolat
+fart farta	fart / farta	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+fat fada	fat / fada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+fa…	fa...	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+fer s'ho	fer-s'ho	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+ferit ferida	ferit / ferida	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+fet feta	fet / feta	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+fins I tot	fins i tot	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+fort forta	fort / forta	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+fosc fosca	fosc / fosca	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+fotut fotuda	fotut / fotuda	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+francès francesa	francès / francesa	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+gras grassa	gras / grassa	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+gris grisa	gris / grisa	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+groc groga	groc / groga	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+gros grossa	gros / grossa	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+hauries de + inf	hauries de + inf.	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+haver de + inf	haver de + inf.	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+il·limitat il·limitada	il·limitat / il·limitada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+in	en	accept	real-change	typo: en
+inclòs inclosa	inclòs / inclosa	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+infermer infermera	infermer infermera	reject	article-added	adds an article the source did not have; not a correction
+l'aigua (f)	l'aigua (f)	reject	gender-marker-removed	the (m)/(f) marker is useful; Catalan gender can differ from Spanish
+l'aigua sense gas (f)	l'aigua sense gas (f)	reject	gender-marker-removed	the (m)/(f) marker is useful; Catalan gender can differ from Spanish
+l'aire condicionat (m)	l'aire condicionat (m)	reject	gender-marker-removed	the (m)/(f) marker is useful; Catalan gender can differ from Spanish
+l'autobús (m)	l'autobús (m)	reject	gender-marker-removed	the (m)/(f) marker is useful; Catalan gender can differ from Spanish
+l'autobús és més barat qie el metro.	l'autobús és més barat que el metro.	accept	real-change	typo: que
+l'avió (m)	l'avió (m)	reject	gender-marker-removed	the (m)/(f) marker is useful; Catalan gender can differ from Spanish
+l'edifici (m)	l'edifici (m)	reject	gender-marker-removed	the (m)/(f) marker is useful; Catalan gender can differ from Spanish
+l'empleat l'empleada	l'empleat / l'empleada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+l'esmorzar (m)	l'esmorzar (m)	reject	gender-marker-removed	the (m)/(f) marker is useful; Catalan gender can differ from Spanish
+l'estanc (m)	l'estanc (m)	reject	gender-marker-removed	the (m)/(f) marker is useful; Catalan gender can differ from Spanish
+l'oli d'oliva (m)	l'oli d'oliva (m)	reject	gender-marker-removed	the (m)/(f) marker is useful; Catalan gender can differ from Spanish
+la cercavilla	la cercavila	accept	real-change	cercavila has one l
+la comissaria de policia	la comissaria de policia	reject	real-change	Catalan comissaria has -ss-; the suggestion is neither language
+la tauleta	la tauleta de nit	accept	real-change	the Spanish gloss is mesita de noche
+lampista	el lampista / la lampista	accept	real-change	same form both genders, articles clarify
+les cargols	els cargols	accept	real-change	cargol is masculine: els cargols
+liest liesta	llest / llesta	accept	real-change	typo: llest / llesta
+llarg llarga	llarg / llarga	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+llegir un llebre	llegir un llibre	accept	real-change	typo: llibre
+llicenciat llicenciada	llicenciat llicenciada	reject	article-added	adds an article the source did not have; not a correction
+maco maca	maco / maca	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+madur madura	madur / madura	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+mateix mateixa	mateix / mateixa	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+mestre mestra	mestre mestra	reject	article-added	adds an article the source did not have; not a correction
+metge metgessa	metge metgessa	reject	article-added	adds an article the source did not have; not a correction
+mig mitja	mig / mitja	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+nebot neboda	nebot neboda	reject	article-added	adds an article the source did not have; not a correction
+negre negra	negre / negra	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+no...ni	no... ni	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+noranta / norantà	noranta / norantè	accept	real-change	ordinal is norantè
+normalament em llevo a les set.	Normalment em llevo a les set.	accept	real-change	typo: normalment
+nou / novè novena	nou / novè / novena	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+no… gaire	no... gaire	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+no… gens	no... gens	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+no… gens ni mica	no... gens ni mica	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+néixar	néixer	accept	real-change	typo: néixer
+obert oberta	obert / oberta	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+ocupat ocupada	ocupat / ocupada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+oh I tant!	Oh, i tant!	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+on vius? on viu?	On vius? / On viu?	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+on és	On és?	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+paleta	paleta	reject	article-added	adds an article the source did not have; not a correction
+pasar estona	passar l'estona	accept	real-change	passar with ss, and l'estona
+passar a + inf	passar a + inf.	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+pensar + inf	pensar + inf.	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+perdona perdoni	perdona / perdoni	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+perruquer perruquera	perruquer perruquera	reject	article-added	adds an article the source did not have; not a correction
+petit petita	petit / petita	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+pintor pintora	pintor pintora	reject	article-added	adds an article the source did not have; not a correction
+ple plena	ple / plena	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+plego tard.	plego tard	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+pobre pobra	pobre / pobra	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+preciós preciosa	preciós / preciosa	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+preocupat preocupada	preocupat / preocupada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+prim prima	prim / prima	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+professor professora	professor / professora	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+pèl-roig roja	pèl-roig / pèl-roja	accept	real-change	m/f separator
+quant? quanta?	quant? / quanta?	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+quants? quantes?	quants? / quantes?	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+quart val?	quant val?	accept	real-change	typo: quant
+quatre / quart quarta	quatre / quart / quarta	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+queder	quedar	accept	real-change	typo: quedar
+qui és ara? a qui toca?	qui és ara? / a qui toca?	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+quin? quina? quins? quines?	quin / quina / quins / quines	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+quins llibresa tens?	quins llibres tens?	accept	real-change	typo: llibres
+receptar, presciure	receptar / prescriure	accept	real-change	typo: prescriure
+roig roija	roig / roja	accept	real-change	feminine of roig is roja
+ros rossa	ros / rossa	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+ràpid ràpida	ràpid / ràpida	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+salat salada	salat / salada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+salut!xin-xin!	salut! / xin-xin!	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+sang	sang	reject	article-added	adds an article the source did not have; not a correction
+secretari secretària	secretari secretària	reject	article-added	adds an article the source did not have; not a correction
+segur segura	segur / segura	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+senyor, senyora	senyor, senyora	reject	article-added	adds an article the source did not have; not a correction
+senzill senzilla	senzill / senzilla	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+set / setè setena	set / setè / setena	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+setanta / setantà	setanta / setantè	accept	real-change	ordinal is setantè
+simpàtic simpàtica	simpàtic / simpàtica	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+sis / sisè sisena	sis / sisè / sisena	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+sol sola	sol / sola	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+sorprès sorpresa	sorprès / sorpresa	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+sortir am amics	sortir amb amics	accept	real-change	typo: amb
+tancat tancada	tancat / tancada	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+tornar a + inf	tornar a + inf.	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+tot I que	tot i que	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+tot tota	tot / tota	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+tres / tercer tercera	tres / tercer / tercera	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+trist trista	trist / trista	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+tímid tímida	tímid / tímida	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+u un una / primer primera	u / un / una / primer / primera	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+unió europea	Unió Europea	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+valent valenta	valent / valenta	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+verd verda	verd / verda	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+vermell vermella	vermell / vermella	accept	accent-or-punctuation	mechanical: accent-or-punctuation
+veí veïna	veí veïna	reject	article-added	adds an article the source did not have; not a correction
+viu s'està	viu / s'està	edit	real-change	s'esta is a real synonym (estar-se = to reside); keep both rather than delete one
+voldria reservar una habitació sisplau.	voldria reservar una habitació, si us plau.	accept	real-change	si us plau, with a comma
+voldria un bitllet per a (lloc) pel (dia)	voldria un bitllet per a (lloc) per al (dia).	accept	real-change	per al before the placeholder
+voldria una barra de quart sisplau.	voldria una barra de quart, si us plau.	accept	real-change	si us plau, with a comma
+vuitè vuitena	vuitè vuitena	reject	article-added	adds an article the source did not have; not a correction
+vull un paquet de sucre sisplau.	Vull un paquet de sucre, si us plau.	accept	real-change	si us plau, with a comma
+vull una habitació doble/individual.	Vull una habitació doble/individual.	accept	accent-or-punctuation	mechanical: accent-or-punctuation

@@ -1,0 +1,48 @@
+scenario	unit	label_ca	label_es	prompt_es
+saludar	1	Saludar	Saludar	Saludas a alguien
+acomiadar-se	1	Acomiadar-se	Despedirse	Te despides
+presentar-se	1	Presentar-se	Presentarse	Te presentas
+presentar-algu	1	Presentar terceres persones	Presentar a otra persona	Presentas a otra persona
+informacio-personal	1	Intercanviar informació personal	Intercambiar información personal	Pides o das datos personales
+origen-nacionalitat	1	Dir d'on ets	Decir de dónde eres	Hablas de tu origen
+llengues	1	Parlar de les llengües que parles	Hablar de los idiomas que hablas	Hablas de idiomas
+edat	1	Dir i demanar l'edat	Decir y preguntar la edad	Hablas de la edad
+numeros	1	Comptar i dir números	Contar y decir números	Dices un número
+registre-formal	1	Distingir el registre formal de l'informal	Distinguir registro formal e informal	Eliges entre tú y usted
+familia	2	Parlar de la família	Hablar de la familia	Hablas de tu familia
+descriure-persones	2	Dir com és de caràcter una persona	Describir el carácter de alguien	Describes a una persona
+gustos	2	Parlar dels gustos i expressar acord i desacord	Hablar de gustos y expresar acuerdo	Dices si algo te gusta
+activitats-quotidianes	3	Parlar de les activitats quotidianes	Hablar de actividades cotidianas	Cuentas tu día a día
+hora-horaris	3	Informar de l'hora i dels horaris	Decir la hora y los horarios	Preguntas o dices la hora
+habits	3	Parlar de costums i hàbits saludables	Hablar de costumbres y hábitos	Hablas de hábitos
+habitatge	4	Descriure l'habitatge i l'entorn	Describir la vivienda y el entorno	Describes una casa
+barri-ciutat	4	Descriure un barri o una ciutat	Describir un barrio o una ciudad	Describes tu barrio
+situar-se	4	Localitzar els serveis d'un barri	Localizar servicios y orientarse	Explicas dónde está algo
+comparar	4	Fer comparacions	Hacer comparaciones	Comparas dos cosas
+fets-personals	5	Parlar de fets personals i de la història	Hablar de hechos personales e históricos	Cuentas algo de tu vida
+narrar-vida	5	Narrar la vida de personatges destacats	Narrar la vida de alguien	Narras una biografía
+anecdotes	5	Explicar anècdotes i reaccionar-hi	Contar anécdotas y reaccionar	Cuentas una anécdota
+menjar-plats	6	Explicar els ingredients d'un plat	Explicar los ingredientes de un plato	Hablas de un plato
+consells-dieta	6	Entendre i donar consells sobre dietes	Dar consejos sobre dietas	Aconsejas sobre comida
+preferencies-menjar	6	Expressar gustos i preferències sobre menjars	Expresar preferencias sobre comida	Dices qué prefieres comer
+comprar-aliments	6	Intercanvis lingüístics per comprar aliments	Comprar alimentos	Compras comida
+noticies	7	Explicar una notícia breu	Contar una noticia	Cuentas una noticia
+experiencies	7	Demanar i donar informació sobre experiències	Hablar de experiencias	Hablas de lo que has hecho
+descriure-caracter	7	Adjectius per descriure el caràcter	Describir el carácter	Describes cómo es alguien
+descriure-fisic	8	Descriure persones pel seu aspecte físic	Describir el aspecto físico	Describes cómo es alguien físicamente
+passat-rutines	8	Explicar fets i rutines del passat	Contar rutinas del pasado	Cuentas cómo era antes
+canvis-personals	8	Explicar canvis personals	Explicar cambios personales	Hablas de un cambio en tu vida
+viatjar	9	Proposar un lloc per anar de viatge i planificar-lo	Proponer y planificar un viaje	Planeas un viaje
+ruta-transport	9	Descriure una ruta i els mitjans de transport	Describir una ruta y transportes	Explicas cómo llegar
+meteorologia	9	Demanar i dir la previsió meteorològica	Hablar del tiempo	Hablas del tiempo que hace
+condicions	9	Expressar condicions	Expresar condiciones	Pones una condición
+salut-malalties	10	Descriure un mal i una malaltia	Describir un dolor o enfermedad	Dices que te duele algo
+estat-anim	10	Expressar un estat d'ànim o un estat físic	Expresar cómo te encuentras	Dices cómo te sientes
+donar-consells	10	Donar consells	Dar consejos	Das un consejo
+feina-professions	11	Demanar i dir a què es dedica algú	Hablar de profesiones	Hablas de trabajo
+requisits-feina	11	Entendre i explicar els requisits d'una feina	Explicar requisitos de un trabajo	Explicas qué hace falta para un puesto
+entrevista-feina	11	Entrevistar una persona que ha canviat de feina	Entrevistar sobre trabajo	Haces una entrevista de trabajo
+lleure	12	Donar informació sobre activitats de lleure	Hablar de ocio	Hablas de tiempo libre
+proposar	12	Fer propostes i contrapropostes	Proponer y contraproponer	Propones un plan
+acceptar-rebutjar	12	Acceptar o rebutjar propostes i invitacions	Aceptar o rechazar una invitación	Aceptas o rechazas un plan
+demanar-favors	12	Demanar favors, permisos i oferir-se per una cosa	Pedir favores y permiso	Pides un favor

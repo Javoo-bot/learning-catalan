@@ -1,0 +1,93 @@
+verb	tense	forms	flag	source
+anar	condicional	aniria / aniries / aniria / aniríem / aniríeu / anirien		beveradb-verbs
+anar	futur	aniré / aniràs / anirà / anirem / anireu / aniran	label-normalised	beveradb-verbs
+anar	imperfet	anava / anaves / anava / anàvem / anàveu / anaven	label-normalised	beveradb-verbs
+anar	present	vaig / vas / va / anem / aneu / van	label-normalised	beveradb-verbs
+anar	participi	anat		beveradb-verbs
+anar	subjuntiu imperfet	anés / anessis / anés / anéssim / anéssiu / anessin		beveradb-verbs
+anar	subjuntiu present	vagi / vagis / vagi / anem / aneu / vagin		beveradb-verbs
+batre	condicional	batria / batries / batria / batríem / batríeu / batrien		beveradb-verbs
+batre	futur	batré / batràs / batrà / batrem / batreu / batran		beveradb-verbs
+batre	imperfet	batia / baties / batia / batíem / batíeu / batien		beveradb-verbs
+batre	passat simple	batí / bateres / baté / batérem / batéreu / batéren		beveradb-verbs
+batre	present	bato / bats / bat / batem / bateu / baten		beveradb-verbs
+batre	subjuntiu imperfet	batés / batéssis / batés / batéssim / batéssiu / batessin	label-normalised	beveradb-verbs
+batre	subjuntiu present	bati / batis / bati / batem / bateu / batin	label-normalised	beveradb-verbs
+battre	participi	batut	misspelling-of-batre	beveradb-verbs
+cantar	condicional	cantaría / cantaries / cantaria / cantaríem / cantaríeu / cantarien		beveradb-verbs
+cantar	futur	cantaré / cantaràs / cantarà / cantarem / cantareu / cantaran		beveradb-verbs
+cantar	subjuntiu imperfet	cantés / cantéssis / cantés / cantéssim / cantéssiu / cantessin	label-normalised	beveradb-verbs
+cantar	imperfet	cantava / cantaves / cantava / cantàvem cantàveu / cantaven		beveradb-verbs
+cantar	participi	cantat		beveradb-verbs
+cantar	passat simple	vaig cantar / vares cantar / va cantar / varem cantar / vareu cantar / varen cantar		beveradb-verbs
+cantar	present	canto / cantes / canta / cantem / canteu / canten		beveradb-verbs
+cantar	subjuntiu present	canti / cantis / canti / cantem / canteu / cantin		beveradb-verbs
+dir	condicional	diria / diries / diria / diríem / diríeu / dirien		beveradb-verbs
+dir	futur	diré / diràs / dirà / direm / direu / diran	label-normalised	beveradb-verbs
+dir	imperfet	deia / deies / deia / dèiem / dèieu / deien	label-normalised	beveradb-verbs
+dir	present	dic / dius / diu / diem / dieu / diuen	label-normalised	beveradb-verbs
+dir	participi	dit		beveradb-verbs
+dir	subjuntiu imperfet	digués / diguessis / digués / diguéssim / diguéssiu / diguessin		beveradb-verbs
+dir	subjuntiu present	digui / diguis / digui / diguem / digueu / diguin		beveradb-verbs
+dir-se	present	em dic / et dius / es diu / ens diem / us dieu / es diuen		beveradb-verbs
+dormir	participi	dormit		beveradb-verbs
+dormir	present	dormo / dorms / dorm / dormim / dormiu / dormen		beveradb-verbs
+dur	condicional	duria / duries / duria / duríem / duríeu / durien		beveradb-verbs
+dur	futur	duré / duràs / durà / durem / dureu / duran	label-normalised	beveradb-verbs
+dur	imperfet	duia / duies / duia / duiem / duieu / duien	label-normalised	beveradb-verbs
+dur	present	duc / du(u)s / du(u) / duem / dueu / duen	label-normalised	beveradb-verbs
+dur	participi	dut		beveradb-verbs
+dur	subjuntiu imperfet	dugués / duguessis / dugués / duguéssim / duguéssiu / duguessin		beveradb-verbs
+dur	subjuntiu present	dugui / duguis / dugui / duguem / dugueu / duguin		beveradb-verbs
+estar	condicional	estaría / estaries / estaria / estaríem / estaríeu / estarien		beveradb-verbs
+estar	futur	estaré / estaràs / estarà / estarem / estareu / estaran		beveradb-verbs
+estar	imperfet	estava / estaves / estava / estàvem / estàveu / estaven		beveradb-verbs
+estar	participi	estat		beveradb-verbs
+estar	passat simple	estiguí / estigueres / estigué / estiguérem / estiguéreu / estigueren		beveradb-verbs
+estar	present	estic / estàs / està / estem / esteu / estan		beveradb-verbs
+estar	subjuntiu imperfet	estigués / estiguéssis / estigués / estiguéssim / estiguéssiu / estiguessin	label-normalised	beveradb-verbs
+estar	subjuntiu present	estigui / estiguis / estigui / estiguem / estigueu / estiguin	label-normalised	beveradb-verbs
+estar-se	present	m'estic / t'estàs / s'està / ens estem / us esteu / s'estan		beveradb-verbs
+fer	condicional	faria / faries / faria / faríem / faríeu / farien		beveradb-verbs
+fer	futur	faré / faràs / farà / farem / fareu / faran	label-normalised	beveradb-verbs
+fer	imperfet	feia / feies / feia / feiem / feieu / feien	label-normalised	beveradb-verbs
+fer	present	faig / fas / fa / fem / feu / fan	label-normalised	beveradb-verbs
+fer	participi	fet		beveradb-verbs
+fer	subjuntiu imperfet	fes / fessis / fes / féssim / féssiu / fessin		beveradb-verbs
+fer	subjuntiu present	faci / facis / faci / fem / feu / facin		beveradb-verbs
+haver	condicional	hauria / hauries / hauria / hauríem / hauríeu / haurien		beveradb-verbs
+haver	futur	hauré / hauràs / haurà / haurem / haureu / hauran	label-normalised	beveradb-verbs
+haver	imperfet	havia / havies / havia / havíem / havíeu / havien	label-normalised	beveradb-verbs
+haver	present	he / haig / has / ha / hem / heu / han	label-normalised	beveradb-verbs
+haver	participi	hagut		beveradb-verbs
+haver	subjuntiu imperfet	hagués / haguessis / hagués / haguéssim / haguéssiu / haguessin		beveradb-verbs
+haver	subjuntiu present	hagi / hagis / hagi / hàgim / hàgiu / hagin		beveradb-verbs
+llegir	participi	llegit		beveradb-verbs
+llegir	present	llegeixo / llegeixes / llegeix / llegim / llegiu / llegeixen		beveradb-verbs
+perdre	present	perdo / perds / perd / perdem / perdeu / perden		beveradb-verbs
+sentir	condicional	sentiría / sentiries / sentiria / sentiríem / sentiríeu / sentirien		beveradb-verbs
+sentir	futur	sentiré / sentiràs / sentirà / sentirem / sentireu / sentiran		beveradb-verbs
+sentir	imperfet	sentia / senties / sentia / sentíem / sentíeu / sentien		beveradb-verbs
+sentir	participi	sentit		beveradb-verbs
+sentir	passat simple	sentí / sentires / sentí / sentírem / sentíreu / sentíren		beveradb-verbs
+sentir	present	sento / sents / sent / sentim / sentiu / senten		beveradb-verbs
+sentir	subjuntiu imperfet	sentís / sentissis / sentís / sentissim / sentíssiu / sentissin	label-normalised	beveradb-verbs
+sentir	subjuntiu present	senti / sentis / senti / sentim / sentiu / sentin	label-normalised	beveradb-verbs
+ser	participi	estat		beveradb-verbs
+ser	present	jo sóc / tu ets / ell és / nosaltres som / vosaltres sou / ells són		beveradb-verbs
+sortir	participi	sortit		beveradb-verbs
+sortir	present	surto / surts / surt / sortim / sortiu / surten		beveradb-verbs
+tenir	participi	tingut		beveradb-verbs
+tenir	present	tinc / tens / té / tenim / teniu / tenen		beveradb-verbs
+viure	participi	viscut		beveradb-verbs
+viure	present	visc / vius / viu / vivim / viviu / viuen		beveradb-verbs
+voler	participi	volgut		beveradb-verbs
+voler	present	vull / vols / vol / volem / voleu / volen		beveradb-verbs
+ésser	participi	estat	duplicate-of-ser	beveradb-verbs
+ésser/ser	condicional	sería / series / seria / seríem / seríeu / serien	duplicate-of-ser	beveradb-verbs
+ésser/ser	futur	seré / seràs / serà / serem / sereu / seran	duplicate-of-ser	beveradb-verbs
+ésser/ser	imperfet	era / eres / era / érem / éreu / eren	duplicate-of-ser	beveradb-verbs
+ésser/ser	passat simple	vaig ser / vas ser / va ser / vam ser / vau ser / van ser'	duplicate-of-ser	beveradb-verbs
+ésser/ser	present	sóc / ets / és / som / sou / són	duplicate-of-ser	beveradb-verbs
+ésser/ser	subjuntiu imperfet	fos / fossis / fos / fossim / fossiu / fossin	duplicate-of-ser;label-normalised	beveradb-verbs
+ésser/ser	subjuntiu present	sigui / siguis / sigui / siguem / sigueu / siguin	duplicate-of-ser;label-normalised	beveradb-verbs

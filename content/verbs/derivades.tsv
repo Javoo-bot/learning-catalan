@@ -1,0 +1,22 @@
+verb	tense	jo	tu	ell	nosaltres	vosaltres	ells	model	source_page	confidence
+cantar	present	canto	cantes	canta	cantem	canteu	canten	parlar	202	derived
+repetir	present	repeteixo	repeteixes	repeteix	repetim	repetiu	repeteixen	llegir	203	derived
+escoltar	present	escolto	escoltes	escolta	escoltem	escolteu	escolten	parlar	202	derived
+entendre	present	entenc	entens	entén	entenem	enteneu	entenen	perdre	207	derived
+haver	present	he	has	ha	hem	heu	han	auxiliar del perfet	203	verbatim
+auxiliar	passat perifràstic	vaig	vas	va	vam (vàrem)	vau (vàreu)	van (varen)	+ infinitiu	203	verbatim
+anar	perfet	he anat	has anat	ha anat	hem anat	heu anat	han anat	haver + participi (anar > anat)	203	derived
+anar	passat perifràstic	vaig anar	vas anar	va anar	vam anar	vau anar	van anar	auxiliar + infinitiu	203	derived
+anar	imperfet	anava	anaves	anava	anàvem	anàveu	anaven	portar	204	derived
+venir	perfet	he vingut	has vingut	ha vingut	hem vingut	heu vingut	han vingut	haver + participi (venir > vingut)	204	derived
+venir	passat perifràstic	vaig venir	vas venir	va venir	vam venir	vau venir	van venir	auxiliar + infinitiu	203	derived
+venir	imperfet	venia	venies	venia	veníem	veníeu	venien	tenir	204	derived
+estar	perfet	he estat	has estat	ha estat	hem estat	heu estat	han estat	haver + participi (estar > estat)	203	derived
+estar	passat perifràstic	vaig estar	vas estar	va estar	vam estar	vau estar	van estar	auxiliar + infinitiu	203	derived
+estar	futur	estaré	estaràs	estarà	estarem	estareu	estaran	regular	205	derived
+estar	imperfet	estava	estaves	estava	estàvem	estàveu	estaven	portar	204	derived
+ser	perfet	he estat	has estat	ha estat	hem estat	heu estat	han estat	haver + participi (ser > sigut / estat)	204	derived
+ser	passat perifràstic	vaig ser	vas ser	va ser	vam ser	vau ser	van ser	auxiliar + infinitiu	203	derived
+ser	futur	seré	seràs	serà	serem	sereu	seran	regular	205	derived
+fer	perfet	he fet	has fet	ha fet	hem fet	heu fet	han fet	haver + participi (fer > fet)	204	derived
+fer	passat perifràstic	vaig fer	vas fer	va fer	vam fer	vau fer	van fer	auxiliar + infinitiu	203	derived

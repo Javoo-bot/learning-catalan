@@ -1,0 +1,58 @@
+ca	es	so	kind	topic	example_ca	source	confidence
+a l'esquerra	a la izquierda		frase	lloc		A Punt p.194	verbatim
+a la dreta	a la derecha		frase	lloc		A Punt p.194	verbatim
+a mà esquerra	a mano izquierda		frase	lloc		A Punt p.194	verbatim
+a mà dreta	a mano derecha		frase	lloc		A Punt p.194	verbatim
+al costat de	al lado de		frase	lloc		A Punt p.194	verbatim
+al final de	al final de		frase	lloc		A Punt p.194	verbatim
+al fons	al fondo		frase	lloc		A Punt p.194	verbatim
+al fons de	al fondo de		frase	lloc		A Punt p.194	verbatim
+al mig de	en medio de		frase	lloc		A Punt p.194	verbatim
+amunt	hacia arriba		mot	lloc		A Punt p.194	verbatim
+avall	hacia abajo		mot	lloc		A Punt p.194	verbatim
+aquí	aquí		mot	lloc		A Punt p.194	verbatim
+allà	allí		mot	lloc		A Punt p.194	verbatim
+a baix	abajo (nivel inferior)		frase	lloc		A Punt p.194	verbatim
+a dalt	arriba (nivel superior)		frase	lloc		A Punt p.194	verbatim
+sota	debajo		mot	lloc		A Punt p.194	verbatim
+sobre	encima		mot	lloc		A Punt p.194	verbatim
+davant de	delante de		frase	lloc		A Punt p.194	verbatim
+darrere de	detrás de		frase	lloc		A Punt p.194	verbatim
+davant per davant de	justo enfrente de		frase	lloc		A Punt p.195	verbatim
+entre... i...	entre... y...		frase	lloc		A Punt p.195	verbatim
+a prop de	cerca de		frase	lloc		A Punt p.195	verbatim
+lluny de	lejos de		frase	lloc		A Punt p.195	verbatim
+recte	recto / de frente		mot	lloc		A Punt p.195	verbatim
+abans de	antes de		frase	temps		A Punt p.195	verbatim
+després de	después de		frase	temps		A Punt p.195	verbatim
+havent dinat	después de comer		frase	temps		A Punt p.195	verbatim
+havent sopat	después de cenar		frase	temps		A Punt p.195	verbatim
+d'hora	temprano		mot	temps		A Punt p.195	verbatim
+aviat	pronto		mot	temps		A Punt p.195	verbatim
+tard	tarde		mot	temps		A Punt p.195	verbatim
+quan	cuando		mot	temps		A Punt p.195	verbatim
+sempre	siempre		mot	temps		A Punt p.195	verbatim
+sovint	a menudo		mot	temps		A Punt p.195	verbatim
+de vegades	a veces		frase	temps		A Punt p.195	verbatim
+de tant en tant	de vez en cuando		frase	temps		A Punt p.195	verbatim
+alguna vegada	alguna vez		frase	temps		A Punt p.195	verbatim
+mai	nunca		mot	temps		A Punt p.195	verbatim
+aleshores	entonces		mot	temps		A Punt p.195	verbatim
+llavors	entonces		mot	temps		A Punt p.195	verbatim
+ja	ya		mot	temps		A Punt p.195	verbatim
+encara no	todavía no		frase	temps		A Punt p.195	verbatim
+dins	dentro		mot	lloc		diccionari	dictionary
+dins de	dentro de		frase	lloc		diccionari	dictionary
+fora	fuera		mot	lloc		diccionari	dictionary
+fora de	fuera de		frase	lloc		diccionari	dictionary
+damunt de	encima de		frase	lloc		diccionari	dictionary
+sota de	debajo de		frase	lloc		diccionari	dictionary
+a través de	a través de		frase	lloc		diccionari	dictionary
+per damunt de	por encima de		frase	lloc		diccionari	dictionary
+al voltant de	alrededor de		frase	lloc		diccionari	dictionary
+enmig de	en medio de		frase	lloc		diccionari	dictionary
+cap a	hacia		frase	lloc		diccionari	dictionary
+fins a	hasta		frase	lloc		diccionari	dictionary
+des de	desde		frase	lloc		diccionari	dictionary
+mentre	mientras		mot	temps		diccionari	dictionary
+fins que	hasta que		frase	temps		diccionari	dictionary
