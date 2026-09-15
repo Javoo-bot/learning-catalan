@@ -134,7 +134,7 @@ including the deck locator, so adding vocabulary re-chunks the decks, changes th
 locator, and re-imports everything as duplicates. Situation cards key on
 `place:seq`; the old word deck keys on the Catalan word.
 
-**Cognates are excluded from cards, kept in the data.** `marroquí` → `marroquí` has
+**Cognates are excluded from cards, kept in the data.** `la partitura` → `la partitura` has
 nothing to recall. ~223 of them.
 
 **`so` is a Spanish respelling, not IPA** — `casa` → `CA-za`, `gener` → `zhe-NÉ`.

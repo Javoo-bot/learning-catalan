@@ -116,7 +116,7 @@ def is_cognate(ca: str, es: str) -> bool:
     """Do the two sides differ only by accents, articles or a parenthetical?
 
     Catalan and Spanish share so much core vocabulary that a card like
-    marroqui -> marroqui has nothing to recall. Those stay in the data but do
+    la partitura -> la partitura has nothing to recall. Those stay in the data but do
     not become cards.
     """
     def strip(s: str) -> str:

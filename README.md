@@ -46,7 +46,7 @@ verb → imperative → free production.
 
 ## What makes it different
 
-**No cognates.** `marroquí → marroquí` has nothing to recall. ~223 excluded.
+**No cognates.** `la partitura → la partitura` has nothing to recall. ~223 excluded.
 
 **Pronunciation without audio** — respelled in Spanish orthography, only where
 reading it "the Spanish way" would mislead:
